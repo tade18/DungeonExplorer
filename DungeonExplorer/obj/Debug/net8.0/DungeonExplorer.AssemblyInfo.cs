@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DungeonExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a099912e56faed11150115818bb855edaf5a5982")]
 [assembly: System.Reflection.AssemblyProductAttribute("DungeonExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DungeonExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -77,7 +77,8 @@ public class Enemy
         public static Enemy CreateBoss()
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("                                        \n@@@@@@@    @@@@@@    @@@@@@    @@@@@@   \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@   \n@@!  @@@  @@!  @@@  !@@       !@@       \n!@   @!@  !@!  @!@  !@!       !@!       \n@!@!@!@   @!@  !@!  !!@@!!    !!@@!!    \n!!!@!!!!  !@!  !!!   !!@!!!    !!@!!!   \n!!:  !!!  !!:  !!!       !:!       !:!  \n:!:  !:!  :!:  !:!      !:!       !:!   \n :: ::::  ::::: ::  :::: ::   :::: ::   \n:: : ::    : :  :   :: : :    :: : :   ");
+            Console.WriteLine(
+                "                                        \n@@@@@@@    @@@@@@    @@@@@@    @@@@@@   \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@   \n@@!  @@@  @@!  @@@  !@@       !@@       \n!@   @!@  !@!  @!@  !@!       !@!       \n@!@!@!@   @!@  !@!  !!@@!!    !!@@!!    \n!!!@!!!!  !@!  !!!   !!@!!!    !!@!!!   \n!!:  !!!  !!:  !!!       !:!       !:!  \n:!:  !:!  :!:  !:!      !:!       !:!   \n :: ::::  ::::: ::  :::: ::   :::: ::   \n:: : ::    : :  :   :: : :    :: : :   ");
             Console.WriteLine("It's a Dungeon Master!!!");
             Console.ResetColor();
             return new Enemy("DungeonMaster", 10, 45);
@@ -104,5 +105,4 @@ public class Enemy
         Console.WriteLine($"---{EnemyName}, {EnemyHp} hp, {EnemyBaseDamage} damage---");
         Console.ResetColor();
     }
-    
 }

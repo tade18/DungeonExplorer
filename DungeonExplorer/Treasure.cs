@@ -8,7 +8,8 @@ public class Treasure
         Random RandomTreasure = new Random();
         int TreasureNum = RandomTreasure.Next(1, 12);
         Console.ForegroundColor = ConsoleColor.Magenta;
-        Console.WriteLine("         __________\n        /\\____;;___\\\n       | /         /\n       `. ())oo() .\n        |\\(%()*^^()^\\\n       %| |-%-------|\n      % \\ | %  ))   |\n      %  \\|%________|\nejm97  %%%%");
+        Console.WriteLine(
+            "         __________\n        /\\____;;___\\\n       | /         /\n       `. ())oo() .\n        |\\(%()*^^()^\\\n       %| |-%-------|\n      % \\ | %  ))   |\n      %  \\|%________|\nejm97  %%%%");
         switch (TreasureNum)
         {
             case 1:
@@ -56,6 +57,7 @@ public class Treasure
                 player.TakeWeapon(Weapons.AppleOfEden);
                 break;
         }
+
         Console.ResetColor();
     }
 }

@@ -51,6 +51,7 @@ public class Fight
                 {
                     _enemy.Attack(_player);
                 }
+
                 if (_player.Health <= 0)
                 {
                     Console.ForegroundColor = ConsoleColor.DarkMagenta;

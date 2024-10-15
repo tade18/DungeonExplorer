@@ -65,7 +65,6 @@ public class Player
         {
             Console.WriteLine("You haven't take it. You can't return for it later.");
         }
-        
     }
 
     public void Attack(Enemy enemy)

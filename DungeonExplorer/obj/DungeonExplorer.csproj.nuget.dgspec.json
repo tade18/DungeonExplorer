@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tade1\\RiderProjects\\DungeonExplorer\\DungeonExplorer\\DungeonExplorer.csproj": {}
+    "C:\\Users\\tade1\\Desktop\\DungeonExplorer\\DungeonExplorer\\DungeonExplorer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tade1\\RiderProjects\\DungeonExplorer\\DungeonExplorer\\DungeonExplorer.csproj": {
+    "C:\\Users\\tade1\\Desktop\\DungeonExplorer\\DungeonExplorer\\DungeonExplorer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tade1\\RiderProjects\\DungeonExplorer\\DungeonExplorer\\DungeonExplorer.csproj",
+        "projectUniqueName": "C:\\Users\\tade1\\Desktop\\DungeonExplorer\\DungeonExplorer\\DungeonExplorer.csproj",
         "projectName": "DungeonExplorer",
-        "projectPath": "C:\\Users\\tade1\\RiderProjects\\DungeonExplorer\\DungeonExplorer\\DungeonExplorer.csproj",
+        "projectPath": "C:\\Users\\tade1\\Desktop\\DungeonExplorer\\DungeonExplorer\\DungeonExplorer.csproj",
         "packagesPath": "C:\\Users\\tade1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tade1\\RiderProjects\\DungeonExplorer\\DungeonExplorer\\obj\\",
+        "outputPath": "C:\\Users\\tade1\\Desktop\\DungeonExplorer\\DungeonExplorer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

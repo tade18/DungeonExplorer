@@ -1,0 +1,14 @@
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\bin\Debug\net8.0\DungeonExplorer.exe
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\bin\Debug\net8.0\DungeonExplorer.deps.json
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\bin\Debug\net8.0\DungeonExplorer.runtimeconfig.json
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\bin\Debug\net8.0\DungeonExplorer.dll
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\bin\Debug\net8.0\DungeonExplorer.pdb
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\DungeonExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\DungeonExplorer.AssemblyInfoInputs.cache
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\DungeonExplorer.AssemblyInfo.cs
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\DungeonExplorer.csproj.CoreCompileInputs.cache
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\DungeonExplorer.dll
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\refint\DungeonExplorer.dll
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\DungeonExplorer.pdb
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\DungeonExplorer.genruntimeconfig.cache
+C:\Users\tade1\RiderProjects\DungeonExplorer\DungeonExplorer\obj\Debug\net8.0\ref\DungeonExplorer.dll
